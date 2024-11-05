@@ -84,7 +84,7 @@ Output:
 
 
 
-We have accuracy of positive sentiment: 88 %
+We have accuracy of positive sentiment: 83 %
 
 We have accuracy of negative sentiment: 81 %
 
