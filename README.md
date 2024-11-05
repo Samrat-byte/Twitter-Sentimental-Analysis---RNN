@@ -91,12 +91,14 @@ We have accuracy of negative sentiment: 81 %
 **Step 11:** Now we will give it a tweet to check if it gives good results
 Output:
 
+![positive](https://github.com/user-attachments/assets/c00f1733-9519-4ffa-9281-78dfae2968ca)
 
 
 Actual: Positive Sentiment
 
 Predicted: Positive Sentiment
 
+![negative](https://github.com/user-attachments/assets/c714d89b-97bc-407e-94b8-50358e641685)
 
 
 Actual: Negative Sentiment
